@@ -9,7 +9,7 @@ function EyesOnMe() {
                     console.log('Hey! Eyes on me!')}
                     }
                 onFocus={(e) => {
-                    console.log('Good!')}} > 
+                    console.log('Good!')}} > Eyes on me
             </button>
         </div>
     )
